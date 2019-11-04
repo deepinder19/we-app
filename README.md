@@ -13,7 +13,7 @@ $ npm --version
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
+    $ git clone https://github.com/deepinder19/we-app.git
     $ cd PROJECT
     $ npm install
 
